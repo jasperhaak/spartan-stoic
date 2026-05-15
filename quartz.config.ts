@@ -8,9 +8,9 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
-    enableSPA: false,
+    pageTitle: "Jasper Haak",
+    pageTitleSuffix: " | Strategy, AI, Business, Zettelkasten, Philosophy, Mindset & Perspective",
+    enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
