@@ -3,16 +3,15 @@ title: Welcome to My Digital Garden
 publish: true
 ---
 
-# Welcome to My Digital Garden
+# Welcome to My Writings and Ramblings
 
-This is your personal knowledge base and blog. Share your thoughts, ideas, and writings with the world.
+They are one and the same.
+## Subjects
 
-## Getting Started
-
-- Add new notes to this folder
-- Mark them with `publish: true` in the frontmatter to publish them
-- Use `[[double brackets]]` to create links between your notes
-- Your site will update automatically when you push to GitHub
+- Philosophy
+- Strategy
+- The MetaFlow Model
+- Business as Unusual
 
 ---
 
