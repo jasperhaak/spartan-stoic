@@ -2,7 +2,7 @@
 title: Failing the Strategy
 publish: true
 ---
-
+![Strategy](../zAttachments/20260515-strategy.png)
 # Failing the Strategy
 
 "Not sure what the strategy is or how I can contribute to it?"
