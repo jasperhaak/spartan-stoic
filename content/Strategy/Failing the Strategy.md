@@ -5,9 +5,7 @@ publish: true
 
 # Failing the Strategy
 
-![[Pasted image 20260515134712.png]]
-
-“Not sure what the strategy is or how I can contribute to it.”
+"Not sure what the strategy is or how I can contribute to it?"
 
 That’s how most employees respond when you ask them about their company’s strategy.
 
