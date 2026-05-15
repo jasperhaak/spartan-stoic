@@ -1,6 +1,6 @@
 ---
 title: Welcome to My Digital Garden
-publish: true
+draft: false
 ---
 
 # Welcome to My Writings and Ramblings

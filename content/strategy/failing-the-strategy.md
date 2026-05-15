@@ -1,6 +1,6 @@
 ---
 title: Failing the Strategy
-publish: true
+draft: false
 ---
 
 # Failing the Strategy
