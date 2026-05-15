@@ -2,7 +2,7 @@
 title: Failing the Strategy
 publish: true
 ---
-![Strategy](../zAttachments/20260515-strategy.png)
+
 # Failing the Strategy
 
 "Not sure what the strategy is or how I can contribute to it?"
@@ -43,3 +43,7 @@ You’ll constantly receive feedback from the market and your employees. When an
 Ultimately, for leadership teams, strategy comes down to one thing: the courage to make real choices. To resist the urge to do everything at once and instead fully commit to what they believe the future could be. And then bring the entire organization along for the journey.
 
 So, the next time you discuss strategy, ask yourself: Is this a story about numbers and market share? Or is it a story of clear ambition, deliberate risks, defined direction, and real choice?
+
+---
+
+*Last updated: May 15, 2026*
